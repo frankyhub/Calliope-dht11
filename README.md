@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://frankyhub.github.io/calliope---dht11/](https://frankyhub.github.io/calliope---dht11/) öffnen
+> Diese Seite bei [https://frankyhub.github.io/calliope---dht11/](https://frankyhub.github.io/calliope-dht11/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -10,7 +10,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/frankyhub/calliope---dht11** suchen und importieren
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/frankyhub/calliope---dht11/workflows/MakeCode/badge.svg)
+## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/frankyhub/calliope-dht11/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
 
